@@ -11,3 +11,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=den-mesh&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=den-mesh&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=den-mesh&theme=solarized_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den-mesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
