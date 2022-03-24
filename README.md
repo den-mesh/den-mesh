@@ -7,13 +7,14 @@
 <div align="center">
 <h2>Пара слов обо мне:</h2>
 </div>
+<br>
 
 - 👯 Открыт к сотрудничеству и совместным проектам
 - 💬 Буду рад поговорить про **JavaScript**
 - 📫 Можете писать мне в Telegram [@denis_mesh](https://t.me/denis_mesh)
 
+---
 <br>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="680" height="300"/>
 </div>
