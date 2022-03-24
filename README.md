@@ -4,9 +4,6 @@
 </h1>
 </div>
 
-<div align="center">
-<h2>Пара слов обо мне:</h2>
-</div>
 <br>
 <h2> :hammer_and_wrench: Мой стек:</h2>
 <div>
