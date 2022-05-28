@@ -17,7 +17,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
+ <img src="https://www.codewars.com/users/den-mesh/badges/large" />
 <br>
+
+
 
 - 👯 Открыт к сотрудничеству и совместным проектам
 - 💬 Буду рад поговорить про **JavaScript**
